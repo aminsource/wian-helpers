@@ -1,11 +1,19 @@
 # WIAN Utilities
 
-WIAN utility JavaScript functions
+WIAN ( Web Iran Abzar Novin ) utility JavaScript functions
 
 ## Installation
 
 ```shell
-npm install @wian/utils --save
+npm install wian-utils
+
+```
+
+or
+
+```shell
+yarn add wian-utils
+
 ```
 
 ## Usage
@@ -13,11 +21,11 @@ npm install @wian/utils --save
 ES5 functions from common.js module
 
 ```js
-import { deepObjectsMerge } from "@wian/utils";
+import { deepObjectsMerge } from "wian-utils";
 ```
 
 ES6+ functions from source, to enable treeshaking
 
 ```js
-import { deepObjectsMerge } from "@wian/utils/src";
+import { deepObjectsMerge } from "wian-utils/src";
 ```

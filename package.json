@@ -1,6 +1,6 @@
 {
-  "name": "@wian/utils",
-  "version": "1.0.0",
+  "name": "wian-utils",
+  "version": "1.0.1",
   "description": "Web Iran Abzar Novin utility functions",
   "sideEffects": false,
   "keywords": [
