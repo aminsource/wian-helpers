@@ -1,0 +1,50 @@
+{
+  "name": "@wian/utils",
+  "version": "1.0.0",
+  "description": "Web Iran Abzar Novin utility functions",
+  "sideEffects": false,
+  "keywords": [
+    "wianui",
+    "js",
+    "utilities",
+    "functions",
+    "methods"
+  ],
+  "homepage": "http://hoomanaminiir",
+  "author": {
+    "name": "Hooman Amini",
+    "url": "http://hoomanaminiir",
+    "github": "https://github.com/aminsource",
+    "twitter": "https://twitter.com/hoomanamini"
+  },
+  "contributors": [
+    {
+      "name": "Novin Team",
+      "url": ""
+    }
+  ],
+  "license": "MIT",
+  "files": [
+    "src/",
+    "dist/"
+  ],
+  "main": "dist/wian-utils.common.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aminsource/wian-utils.git"
+  },
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "engines": {
+    "node": ">=8.9.0",
+    "npm": ">= 5.6.0"
+  }
+}
