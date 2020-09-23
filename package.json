@@ -1,6 +1,6 @@
 {
-  "name": "wian-utils",
-  "version": "1.0.1",
+  "name": "wian-helpers",
+  "version": "1.0.0",
   "description": "Web Iran Abzar Novin utility functions",
   "sideEffects": false,
   "keywords": [
@@ -10,7 +10,7 @@
     "functions",
     "methods"
   ],
-  "homepage": "http://hoomanaminiir",
+  "homepage": "http://hoomanamini.ir",
   "author": {
     "name": "Hooman Amini",
     "url": "http://hoomanaminiir",
