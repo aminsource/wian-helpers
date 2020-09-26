@@ -1,6 +1,6 @@
-# WIAN Utilities
+# WIAN Helpers and Utilities
 
-WIAN ( Web Iran Abzar Novin ) utility JavaScript functions
+WIAN ( Web Iran Abzar Novin ) helper JavaScript functions
 
 ## Installation
 
